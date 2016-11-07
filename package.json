@@ -1,0 +1,22 @@
+{
+  "name": "dexauctionwowanalyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leonzharikov/DEXAuctionWoWAnalyzer.git"
+  },
+  "keywords": [
+    "dex"
+  ],
+  "author": "DEX",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/leonzharikov/DEXAuctionWoWAnalyzer/issues"
+  },
+  "homepage": "https://github.com/leonzharikov/DEXAuctionWoWAnalyzer#readme"
+}
